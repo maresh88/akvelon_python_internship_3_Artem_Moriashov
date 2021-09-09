@@ -1,7 +1,12 @@
-##Task description:
+## Task description:
 [link](https://docs.google.com/document/d/1WMzjNPGjkF8iJRoLIKkqOzJ7EH7mopXUO2JuHgaE6Jw/edit)
-##Solution:
-###Installation
+## Solution:
+### Prerequisites
+* Install Docker on Mac/Windows/Linux.
+* Python >= 3.8.9
+* Django >= 3.2
+* DRF >= 3.12
+### Installation
 1. Download the repository to your folder
 2. Install Docker and run command from the folder
 ```shell
