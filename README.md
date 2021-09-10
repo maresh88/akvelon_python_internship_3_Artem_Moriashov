@@ -1,6 +1,8 @@
 ## Task description:
 [link](https://docs.google.com/document/d/1WMzjNPGjkF8iJRoLIKkqOzJ7EH7mopXUO2JuHgaE6Jw/edit)
 ## Solution:
+link to [Heroku](https://glacial-anchorage-58805.herokuapp.com)
+or follow the steps below to proceed with the solution locally
 ### Prerequisites
 * Install Docker on Mac/Windows/Linux.
 * Python >= 3.8.9
@@ -17,3 +19,4 @@ docker-compose up --build
 http://localhost:8000/api/swagger/
 ```
 4. Solution for task #2 is located in /config/utils.py
+
